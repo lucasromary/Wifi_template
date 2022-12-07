@@ -1,7 +1,7 @@
 #include <WiFi.h> 
 
-#define WIFI_SSID "LucasR"
-#define WIFI_PASSWORD "lucasromary3"
+#define WIFI_SSID "IoT_CP53"
+#define WIFI_PASSWORD "iot"
 
 void initWiFi() { 
    WiFi.mode(WIFI_STA); 
